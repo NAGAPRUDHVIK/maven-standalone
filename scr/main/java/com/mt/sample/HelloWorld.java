@@ -1,4 +1,4 @@
-packge com.mt.sample;
+package com.mt.sample;
 /**
  *
  *
