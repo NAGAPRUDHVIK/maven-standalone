@@ -11,7 +11,7 @@ public class HelloWorld
 	{
 		System.out.println("hello welcome to maven Bulid Tools!!today is:");
 	}
-	private static Date getLocal CurrentDate()
+	private static DategetLocalCurrentDate()
 	{
 		String m="mithun tech";
 		return new Date();
